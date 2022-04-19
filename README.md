@@ -66,7 +66,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ```bash -->
 # Clone this repository
-$ git clone https://kinjames.github.io/404-page/
+$ git clone https://kinjames.github.io/my-team/
 
 % # # Install dependencies
 % # $ npm install
